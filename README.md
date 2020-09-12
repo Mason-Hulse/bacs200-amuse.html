@@ -3,7 +3,7 @@
   <head>
     
    <meta charset="UTF-8">
-   <title>What Amuses Me</title>
+   <title>Amuses Me</title>
    
    <p>By Mason Hulse</p>
    <p>These are some things that amuse me</p>
